@@ -1,0 +1,24 @@
+{
+  "name": "json-estados-brasileiros",
+  "version": "1.0.0",
+  "description": "Projetos simples de estados brasileiros",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gean-Lima/json-estados-brasileiros.git"
+  },
+  "keywords": [
+    "estados brasileiros",
+    "estados",
+    "brasil"
+  ],
+  "author": "Gean Lima <geanlimasp12345@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gean-Lima/json-estados-brasileiros/issues"
+  },
+  "homepage": "https://github.com/Gean-Lima/json-estados-brasileiros#readme"
+}
