@@ -1,6 +1,6 @@
 {
   "name": "json-estados-brasileiros",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Projetos simples de estados brasileiros",
   "main": "src/index.js",
   "scripts": {
